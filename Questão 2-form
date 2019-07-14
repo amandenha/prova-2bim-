@@ -1,0 +1,5 @@
+<form action="localidades.php" method="POST"> 
+    <input type="text" name="local" id="local"/>
+    <input type="submit" value="Enviar"/>
+</form>
+
